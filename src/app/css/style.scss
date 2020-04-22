@@ -1,0 +1,28 @@
+@import "var";
+@import "mixin";
+@import "fonts";
+
+body {
+  background-color: #eeeded;
+}
+
+.textArea {
+  border-color: #719ECE;
+}
+
+textarea:focus {
+  outline: none;
+  border-color: #719ECE;
+  box-shadow: 0 0 10px #719ECE;
+}
+
+.textOut {
+  text-align: center;
+  color: #719ECE;
+}
+
+.center {
+  padding: 0;
+  margin: auto;
+  display: block;
+}

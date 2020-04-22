@@ -1,0 +1,5 @@
+import { facade as facadeModel } from './module/DomainModel'
+import { facade as facadeController } from './module/Controller'
+import { observer } from './module/UserInterface'
+import { facade as facadeView } from './module/View'
+import '../css/style.scss'
