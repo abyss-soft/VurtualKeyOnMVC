@@ -53,7 +53,7 @@
     "url-loader": "^3.0.0",
     "webpack": "^5.94.0",
     "webpack-cli": "^5.1.4",
-    "webpack-dashboard": "^3.2.0",
+    "webpack-dashboard": "^3.3.8",
     "webpack-dev-server": "^4.11.1"
   },
   "jest": {
